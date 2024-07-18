@@ -12,7 +12,6 @@
 
 using namespace std;
 
-//
 // prototype of the functions
 void searchByCity();
 void searchById();
